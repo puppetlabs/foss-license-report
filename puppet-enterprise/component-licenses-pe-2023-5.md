@@ -27,6 +27,11 @@
 </tr>
 
 <tr>
+<td>Bouncy-Castle</td>
+<td><a href="https://www.bouncycastle.org/licence.html">https://www.bouncycastle.org/licence.html</a></td>
+</tr>
+
+<tr>
 <td>EDL 1.0</td>
 <td><a href="http://www.eclipse.org/org/documents/edl-v10.php">http://www.eclipse.org/org/documents/edl-v10.php</a></td>
 </tr>
