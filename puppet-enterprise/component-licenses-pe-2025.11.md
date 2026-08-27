@@ -158,28 +158,42 @@
   
   <td><a href=https://central.sonatype.com/artifact/ch.qos.logback.access/logback-access-common>gav://ch.qos.logback.access:logback-access-common:2.0.12</a></td>
   
-  <td> EPL-1.0,LGPL-2.1 </td>
+  <td> EPL-2.0,LGPL-2.1 </td>
 </tr>
 
 <tr>
   
   <td><a href=https://central.sonatype.com/artifact/ch.qos.logback.access/logback-access-jetty12>gav://ch.qos.logback.access:logback-access-jetty12:2.0.12</a></td>
   
-  <td> EPL-1.0,LGPL-2.1 </td>
+  <td> EPL-2.0,LGPL-2.1 </td>
 </tr>
 
 <tr>
   
   <td><a href=https://central.sonatype.com/artifact/ch.qos.logback/logback-classic>gav://ch.qos.logback:logback-classic:1.5.32</a></td>
   
-  <td> EPL-1.0,LGPL-2.1 </td>
+  <td> EPL-2.0,LGPL-2.1 </td>
+</tr>
+
+<tr>
+  
+  <td><a href=https://central.sonatype.com/artifact/ch.qos.logback/logback-classic>gav://ch.qos.logback:logback-classic:1.5.37</a></td>
+  
+  <td> EPL-2.0,LGPL-2.1 </td>
 </tr>
 
 <tr>
   
   <td><a href=https://central.sonatype.com/artifact/ch.qos.logback/logback-core>gav://ch.qos.logback:logback-core:1.5.32</a></td>
   
-  <td> EPL-1.0,LGPL-2.1 </td>
+  <td> EPL-2.0,LGPL-2.1 </td>
+</tr>
+
+<tr>
+  
+  <td><a href=https://central.sonatype.com/artifact/ch.qos.logback/logback-core>gav://ch.qos.logback:logback-core:1.5.37</a></td>
+  
+  <td> EPL-2.0,LGPL-2.1 </td>
 </tr>
 
 <tr>
@@ -821,21 +835,7 @@
 
 <tr>
   
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-buffer>gav://io.netty:netty-buffer:4.1.133.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://central.sonatype.com/artifact/io.netty/netty-buffer>gav://io.netty:netty-buffer:4.1.135.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-codec>gav://io.netty:netty-codec:4.1.133.Final</a></td>
   
   <td> Apache-2.0 </td>
 </tr>
@@ -849,13 +849,6 @@
 
 <tr>
   
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-codec-dns>gav://io.netty:netty-codec-dns:4.1.131.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://central.sonatype.com/artifact/io.netty/netty-codec-dns>gav://io.netty:netty-codec-dns:4.1.135.Final</a></td>
   
   <td> Apache-2.0 </td>
@@ -863,21 +856,7 @@
 
 <tr>
   
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-codec-http2>gav://io.netty:netty-codec-http2:4.1.133.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://central.sonatype.com/artifact/io.netty/netty-codec-http2>gav://io.netty:netty-codec-http2:4.1.135.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-codec-http>gav://io.netty:netty-codec-http:4.1.133.Final</a></td>
   
   <td> Apache-2.0 </td>
 </tr>
@@ -898,21 +877,7 @@
 
 <tr>
   
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-common>gav://io.netty:netty-common:4.1.133.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://central.sonatype.com/artifact/io.netty/netty-common>gav://io.netty:netty-common:4.1.135.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-handler>gav://io.netty:netty-handler:4.1.133.Final</a></td>
   
   <td> Apache-2.0 </td>
 </tr>
@@ -933,21 +898,7 @@
 
 <tr>
   
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-resolver>gav://io.netty:netty-resolver:4.1.133.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://central.sonatype.com/artifact/io.netty/netty-resolver>gav://io.netty:netty-resolver:4.1.135.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-resolver-dns>gav://io.netty:netty-resolver-dns:4.1.131.Final</a></td>
   
   <td> Apache-2.0 </td>
 </tr>
@@ -989,13 +940,6 @@
 
 <tr>
   
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-transport>gav://io.netty:netty-transport:4.1.133.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://central.sonatype.com/artifact/io.netty/netty-transport>gav://io.netty:netty-transport:4.1.135.Final</a></td>
   
   <td> Apache-2.0 </td>
@@ -1025,13 +969,6 @@
 <tr>
   
   <td><a href=https://central.sonatype.com/artifact/io.netty/netty-transport-native-kqueue>gav://io.netty:netty-transport-native-kqueue:4.1.132.Final</a></td>
-  
-  <td> Apache-2.0 </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://central.sonatype.com/artifact/io.netty/netty-transport-native-unix-common>gav://io.netty:netty-transport-native-unix-common:4.1.132.Final</a></td>
   
   <td> Apache-2.0 </td>
 </tr>
@@ -1241,7 +1178,7 @@
 
 <tr>
   
-  <td><a href=https://central.sonatype.com/artifact/net.logstash.logback/logstash-logback-encoder>gav://net.logstash.logback:logstash-logback-encoder:8.1</a></td>
+  <td> gav://net.logstash.logback:logstash-logback-encoder:8.1 </td>
   
   <td> Apache-2.0,MIT </td>
 </tr>
@@ -1284,6 +1221,13 @@
 <tr>
   
   <td><a href=https://central.sonatype.com/artifact/org.apache.commons/commons-lang3>gav://org.apache.commons:commons-lang3:3.14.0</a></td>
+  
+  <td> Apache-2.0 </td>
+</tr>
+
+<tr>
+  
+  <td><a href=https://central.sonatype.com/artifact/org.apache.commons/commons-lang3>gav://org.apache.commons:commons-lang3:3.18.0</a></td>
   
   <td> Apache-2.0 </td>
 </tr>
@@ -2655,7 +2599,21 @@
 
 <tr>
   
+  <td><a href=https://rubygems.org/gems/activesupport>rubygems://activesupport:8.0.4.1</a></td>
+  
+  <td> MIT </td>
+</tr>
+
+<tr>
+  
   <td><a href=https://rubygems.org/gems/addressable>rubygems://addressable:2.8.7</a></td>
+  
+  <td> Apache-2.0 </td>
+</tr>
+
+<tr>
+  
+  <td><a href=https://rubygems.org/gems/addressable>rubygems://addressable:2.9.0</a></td>
   
   <td> Apache-2.0 </td>
 </tr>
@@ -2732,13 +2690,6 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/bolt>rubygems://bolt:5.0.1</a></td>
-  
-  <td> PuppetCoreLicense </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://rubygems.org/gems/bolt>rubygems://bolt:5.1.2</a></td>
   
   <td> PuppetCoreLicense </td>
@@ -2754,13 +2705,6 @@
 <tr>
   
   <td><a href=https://rubygems.org/gems/CFPropertyList>rubygems://CFPropertyList:3.0.7</a></td>
-  
-  <td> MIT </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://rubygems.org/gems/colored2>rubygems://colored2:3.1.2</a></td>
   
   <td> MIT </td>
 </tr>
@@ -2858,23 +2802,9 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/facter>rubygems://facter:4.17.0</a></td>
-  
-  <td> PuppetCoreLicense </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://rubygems.org/gems/facter>rubygems://facter:4.19.0</a></td>
   
   <td> PuppetCoreLicense </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://rubygems.org/gems/faraday>rubygems://faraday:1.10.3</a></td>
-  
-  <td> MIT </td>
 </tr>
 
 <tr>
@@ -2893,7 +2823,7 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/faraday>rubygems://faraday:2.14.2</a></td>
+  <td><a href=https://rubygems.org/gems/faraday>rubygems://faraday:2.14.3</a></td>
   
   <td> MIT </td>
 </tr>
@@ -2928,13 +2858,6 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/faraday-follow_redirects>rubygems://faraday-follow_redirects:0.5.0</a></td>
-  
-  <td> MIT </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://rubygems.org/gems/faraday-httpclient>rubygems://faraday-httpclient:1.0.1</a></td>
   
   <td> MIT </td>
@@ -2943,13 +2866,6 @@
 <tr>
   
   <td><a href=https://rubygems.org/gems/faraday_middleware>rubygems://faraday_middleware:1.2.0</a></td>
-  
-  <td> MIT </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://rubygems.org/gems/faraday_middleware>rubygems://faraday_middleware:1.2.1</a></td>
   
   <td> MIT </td>
 </tr>
@@ -2970,13 +2886,6 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/faraday-net_http>rubygems://faraday-net_http:1.0.2</a></td>
-  
-  <td> MIT </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://rubygems.org/gems/faraday-net_http>rubygems://faraday-net_http:3.1.1</a></td>
   
   <td> MIT </td>
@@ -2985,13 +2894,6 @@
 <tr>
   
   <td><a href=https://rubygems.org/gems/faraday-net_http>rubygems://faraday-net_http:3.3.0</a></td>
-  
-  <td> MIT </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://rubygems.org/gems/faraday-net_http>rubygems://faraday-net_http:3.4.4</a></td>
   
   <td> MIT </td>
 </tr>
@@ -3033,16 +2935,16 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/fast_gettext>rubygems://fast_gettext:2.4.0</a></td>
+  <td><a href=https://rubygems.org/gems/faraday-retry>rubygems://faraday-retry:1.0.4</a></td>
   
   <td> MIT </td>
 </tr>
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/ffi>rubygems://ffi:1.16.3</a></td>
+  <td><a href=https://rubygems.org/gems/fast_gettext>rubygems://fast_gettext:2.4.0</a></td>
   
-  <td> BSD-3-Clause </td>
+  <td> MIT </td>
 </tr>
 
 <tr>
@@ -3194,13 +3096,6 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/minitar>rubygems://minitar:0.12.1</a></td>
-  
-  <td> Ruby </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://rubygems.org/gems/minitar>rubygems://minitar:1.1.0</a></td>
   
   <td> Ruby </td>
@@ -3243,13 +3138,6 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/multi_json>rubygems://multi_json:1.21.1</a></td>
-  
-  <td> MIT </td>
-</tr>
-
-<tr>
-  
   <td><a href=https://rubygems.org/gems/multipart-post>rubygems://multipart-post:2.0.0</a></td>
   
   <td> MIT </td>
@@ -3286,13 +3174,6 @@
 <tr>
   
   <td><a href=https://rubygems.org/gems/net-ftp>rubygems://net-ftp:0.3.7</a></td>
-  
-  <td> Ruby </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://rubygems.org/gems/net-http>rubygems://net-http:0.9.1</a></td>
   
   <td> Ruby </td>
 </tr>
@@ -3376,7 +3257,7 @@
 
 <tr>
   
-  <td><a href=https://rubygems.org/gems/net-ssh>rubygems://net-ssh:7.3.2</a></td>
+  <td><a href=https://rubygems.org/gems/net-ssh>rubygems://net-ssh:7.3.3</a></td>
   
   <td> MIT </td>
 </tr>
@@ -3498,13 +3379,6 @@
   <td><a href=https://rubygems.org/gems/puma>rubygems://puma:7.1.0</a></td>
   
   <td> BSD-3-Clause </td>
-</tr>
-
-<tr>
-  
-  <td><a href=https://rubygems.org/gems/r10k>rubygems://r10k:3.16.2</a></td>
-  
-  <td> Apache-2.0 </td>
 </tr>
 
 <tr>
@@ -3747,6 +3621,13 @@
 
 <tr>
   
+  <td><a href=https://rubygems.org/gems/uri>rubygems://uri:1.0.4</a></td>
+  
+  <td> Ruby </td>
+</tr>
+
+<tr>
+  
   <td><a href=https://rubygems.org/gems/windows_error>rubygems://windows_error:0.1.5</a></td>
   
   <td> BSD </td>
@@ -3769,6 +3650,13 @@
 <tr>
   
   <td><a href=https://rubygems.org/gems/yard>rubygems://yard:0.9.36</a></td>
+  
+  <td> MIT </td>
+</tr>
+
+<tr>
+  
+  <td><a href=https://rubygems.org/gems/yard>rubygems://yard:0.9.44</a></td>
   
   <td> MIT </td>
 </tr>
